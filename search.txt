@@ -1,1 +1,4 @@
 search results must show the following
+1. electronics
+2. clothing
+3. food
